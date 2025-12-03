@@ -1,0 +1,10 @@
+Django>=4.0
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+xgboost
+matplotlib
+mysqlclient
+python-dotenv
